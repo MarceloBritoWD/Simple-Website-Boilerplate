@@ -1,5 +1,5 @@
 # Simple Website Boilerplate
-- A simple website boilerplate with GruntJS, WatchJS, Stylus and UglifyJS
+- A simple website boilerplate with [GruntJS](http://gruntjs.com/), [Grunt-Watch](https://www.npmjs.com/package/grunt-contrib-watch), [Stylus](http://stylus-lang.com/) and [UglifyJS](https://www.npmjs.com/package/grunt-contrib-uglify)
 
 
 ## Install and Development
